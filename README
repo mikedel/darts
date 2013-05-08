@@ -1,0 +1,18 @@
+darts
+
+this project is a collection of dart scoreboard GUIs.  The goal is to make simple scoreboards that use keyboard shortcuts and mouse click to easily mark scores for various games.
+
+List of desired games includes:
+301
+501
+1001
+Baseball
+Cricket
+Golf
+Shanghai
+Double Down
+Double Out
+...
+
+
+Will keep this list updated as I consider more games that are feasible.
