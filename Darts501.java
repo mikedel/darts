@@ -5,11 +5,11 @@
  {
 	int numPlayers, i;
 	
-	public class Darts501()
+	public Darts501()
 	{
 		this (2);
 	}
-	public class Darts501(int num)
+	public Darts501(int num)
 	{
 		numPlayers = num;
 		setLayout(new GridLayout(numPlayers*2, 10));
